@@ -33,7 +33,7 @@ S
 <changed_pins>:<timestamp_us>
 <changed_pins>:<timestamp_us>
 ...
-Use Cases
+Use Cases.
 
 Digital protocol analysis (SPI, I2C, UART, etc.)
 Timing verification
