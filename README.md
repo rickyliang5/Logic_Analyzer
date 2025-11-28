@@ -32,7 +32,7 @@ S
 <initial_state>:<sample_count>
 <changed_pins>:<timestamp_us>
 <changed_pins>:<timestamp_us>
-...
+....
 Use Cases.
 
 Digital protocol analysis (SPI, I2C, UART, etc.)
