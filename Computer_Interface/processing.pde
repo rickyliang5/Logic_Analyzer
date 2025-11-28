@@ -67,7 +67,7 @@ int button3X = 80;
 int button4X = 200;
 int button5X = 270;
 int buttonY;
-int buttonH = 20;
+int buttonH = 202;
 int smallButtonW = 50;
 int bigButtonW = 100;
 int graphBoxH;
