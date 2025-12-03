@@ -1,10 +1,4 @@
-/*
- * STM32F1.ino
- *
- * Author : Vincenzo
- * this works using the unofficial STM32 core, more info: https://github.com/rogerclarkmelbourne/Arduino_STM32
- * Led: PB1
- */ 
+
 
 
 #define baudrate 115200 // check if it is the same in processing
