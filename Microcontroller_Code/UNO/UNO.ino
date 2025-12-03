@@ -1,10 +1,4 @@
-/*
- * UNO.ino
- *
- * Created: 11/12/2016 19.35.51
- * Author : Vincenzo
- * Led on A0
- */ 
+
 
 #define baudrate 115200 // check if it is the same in processing
 #define samples 200		// the number of samples you want to take
