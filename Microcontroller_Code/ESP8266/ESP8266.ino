@@ -1,7 +1,6 @@
 /*
  * ESP8266.ino
  *
- * Author : yoursunny
  * Led: LED_BUILTIN
  */ 
 
