@@ -1,14 +1,4 @@
-/*
- * MEGA.ino
- * IMPORTANT: Please to use this board use this fork https://github.com/sancho11/logic-analyzer
- *
- * Created: 11/12/2016 19.35.51
- * Author : Vincenzo / sancho
- * Modificaciones agregadas para funcionar con ArduinoMega2560 por Enmanuel Sancho Quintanilla
- * La unidad minima en tiempo para este sistema es de 8 micro segundos lo que idealmente permitiria
- * observar clocks con periodos de 62 kHz sin embargo para poder apreciar las señales logicas con suficiente
- * resolucion se recomienda no superar los 30 kHz en el clock del sistema.
- */
+
 
 #define baudrate 115200 // check if it is the same in processing
 #define samples 200		// the number of samples you want to take
