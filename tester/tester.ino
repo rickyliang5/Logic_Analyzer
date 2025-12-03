@@ -1,7 +1,5 @@
 /*
  * tester.ino
- *
- * Author : Vincenzo
  * Test your logic analyzer with another arduino
  */
 
