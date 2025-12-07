@@ -3,7 +3,7 @@
 #define baudrate 115200 // check if it is the same in processing
 #define samples 200		// the number of samples you want to take
 
-
+//
 #define pin_used
 #define timezerooffset 125 //microsegundos
 #define PULLUP true        //Si queremos entradas con PULLUP lo dejamos activado(true), si queremos dejarlas al "aire" (false), en caso de desactivarlo deberemos aterrizar todos los pines que no utilizemos.
