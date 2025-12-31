@@ -11,7 +11,7 @@ Simple protocol for interfacing with visualization software (Processing, Python,
 
 Hardware Requirements
 
-STM32F1 board (e.g., Blue Pill - STM32F103C8T6)
+STM32F1 board (e.g., Blue Pill - STM32F103C8T6).
 Requires Arduino_STM32 core
 
 Pin Configuration
