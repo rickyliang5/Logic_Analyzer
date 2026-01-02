@@ -18,7 +18,7 @@ Pin Configuration
 
 Input Channels: PB12, PB13, PB14, PB15 (with internal pull-up resistors)
 Status LED: PB1
-
+.
 How It Works
 The analyzer continuously monitors the 4 input pins and records:
 
