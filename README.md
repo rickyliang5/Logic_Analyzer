@@ -14,7 +14,7 @@ Hardware Requirements
 STM32F1 board (e.g., Blue Pill - STM32F103C8T6).
 Requires Arduino_STM32 core
 
-Pin Configuration
+Pin Configuration/
 
 Input Channels: PB12, PB13, PB14, PB15 (with internal pull-up resistors)
 Status LED: PB1
