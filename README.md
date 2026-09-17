@@ -6,7 +6,7 @@ Features
 High-speed sampling with microsecond-precision timestamps
 200 sample buffer (configurable)
 Serial communication at 115200 baud for data transmission
-Edge detection - captures only pin state changes for efficient memory usage
+Edge detection - captures only pin state changes for efficient memory usage.
 Simple protocol for interfacing with visualization software (Processing, Python, etc.)
 
 Hardware Requirements
